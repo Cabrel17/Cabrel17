@@ -27,3 +27,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cabrel17&show_icons=true&locale=en" alt="cabrel17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cabrel17&" alt="cabrel17" /></p>
+<div>
+            <h2 align="center"> 💻 Github Contributions :electron: </h2>
+            <br>
+            <div align="center">
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cabrel17&color=FF7F00&bg_color=09131B&line=FF7F00&point=FF7F00&area_color=000000&hide_border=true&area=true"
+                    alt="readme active graph" />
+  </div>
